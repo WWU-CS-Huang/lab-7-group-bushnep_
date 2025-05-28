@@ -11,4 +11,4 @@ plugins {
 }
 
 rootProject.name = 'lab-7-group-bushnep_'
-include('app')
+include('app', 'list', 'utilities')
