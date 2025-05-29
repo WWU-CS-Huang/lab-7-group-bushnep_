@@ -34,7 +34,7 @@ public class Huffman {
 
         if (input.length() < 100) {
         System.out.println("Original Text:\n" + input);
-        System.out.println("\nEncoded Bitstring:\n" + encoded);
+        System.out.println("Encoded Bitstring:\n" + encoded);
         System.out.println("\nDecoded Text:\n" + decoded);
         }
 
