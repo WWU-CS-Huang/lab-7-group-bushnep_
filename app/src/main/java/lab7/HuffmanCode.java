@@ -1,3 +1,7 @@
+/**
+ * HuffmanCode handles frequency analysis, tree construction,
+ * encoding, and decoding for Huffman compression.
+ */
 package lab7;
 
 import java.util.HashMap;

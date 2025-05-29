@@ -1,3 +1,7 @@
+/**
+ * Represents a node in the Huffman tree.
+ * Implements Comparable for use in a priority queue.
+ */
 package lab7;
 
 class HuffmanNode implements Comparable<HuffmanNode> {
